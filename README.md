@@ -1,4 +1,3 @@
-# Exploring-Netflix-Data-with-SQL
 # Netflix Movies and TV Shows Data Analysis using SQL
 
 ![](https://github.com/JeniferJoys/Exploring-Netflix-Data-with-SQL/blob/main/Netfflix%20Logo.jpg)
